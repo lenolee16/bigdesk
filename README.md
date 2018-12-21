@@ -14,7 +14,8 @@ You can change the Bigdesk **refresh interval** and **amount of data** that is d
 
 ## Screenshots
 
-![Bigdesk ES2.x](https://github.com/lenolee16/bigdesk/raw/master/bigdesk_es2.png)
+![Bigdesk ES6.x](https://github.com/lenolee16/bigdesk/raw/master/es6.png)
+![Bigdesk cluster](https://github.com/lenolee16/bigdesk/raw/master/cluster.png)
 
 
 ## Supported Web Browsers
